@@ -134,4 +134,8 @@ td:first-child {
 		margin-left: 10px;
 		float: none;
 	}
+
+	.header button {
+		margin-bottom: 5px;
+	}
 }
